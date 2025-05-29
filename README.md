@@ -122,8 +122,7 @@ Estas son las tecnologías y herramientas con las que me siento cómodo trabajan
 
 Conéctate conmigo y explora más.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario-twitter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-gonzalez/)
 [![Tu Sitio Personal/Blog](https://img.shields.io/badge/Sitio_Web-1A1B1F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.tu-sitio-personal.com/)
 
 ---
@@ -131,8 +130,8 @@ Conéctate conmigo y explora más.
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikolas9702&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas9702&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
 </p>
 
 ---
@@ -141,4 +140,4 @@ Conéctate conmigo y explora más.
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar!
 
-Puedes enviarme un correo a [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com).
+Puedes enviarme un correo a [dilan.gonzalez.garcia@gmail.com](mailto:dilan.gonzalez.garcia@gmail.com).
