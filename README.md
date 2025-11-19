@@ -21,7 +21,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Plataforma robusta de gestión y administración desarrollada con **Laravel 10**, implementando **multi-tenancy**, **tareas programadas (crons)**, integración con **APIs** y un sistema avanzado de **roles y permisos**. Ideal para negocios que requieren una solución a medida.
 - **Tecnologías usadas:** Laravel 10, MySQL, PHP, APIs RESTful, Cron Jobs, Multi-tenancy, Gestión de Roles y Permisos.
 - [🔗 Ver Proyecto en Vivo](https://yoyix.sionica.net)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/yoyix-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -30,7 +29,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Sistema CRM desarrollado con **Next.js** para una experiencia de usuario rápida y eficiente, utilizando **React** para la interfaz, **Redux** para la gestión de estado global y **Server-Side Rendering (SSR)** para optimización de rendimiento y SEO.
 - **Tecnologías usadas:** Next.js, React, Redux, Server-Side Rendering (SSR), JavaScript, APIs.
 - [🔗 Ver Proyecto en Vivo](https://crm.sionica.net)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/crm-sionica-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -39,7 +37,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Creación de un sitio web enfocado en branding y servicios con un diseño moderno y responsivo, utilizando un enfoque de desarrollo ágil con **WordPress**.
 - **Tecnologías usadas:** WordPress, Temas y Plugins Personalizados, HTML, CSS.
 - [🔗 Ver Proyecto en Vivo](https://devs67.sg-host.com/marca/)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/devs67-marca-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -48,7 +45,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Desarrollo de una plataforma de reservas y promoción de destinos turísticos con **WordPress**, optimizada para la experiencia del usuario y la gestión de paquetes vacacionales.
 - **Tecnologías usadas:** WordPress, Plugins de Booking y Reservas, HTML, CSS.
 - [🔗 Ver Proyecto en Vivo](https://viajespluscovenas.com)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/viajesplus-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -57,7 +53,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Colaboración en el desarrollo y documentación de un caso de éxito para un negocio gastronómico, destacando la implementación de soluciones web con **WordPress**.
 - **Tecnologías usadas:** WordPress, Diseño Web, Optimización de Contenido.
 - [🔗 Ver Caso de Éxito](https://sionica.net/el-caso-de-exito-parrillisimo-un-lugar-con-historia-y-sabor/)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/sionica-parrillisimo-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -66,7 +61,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Creación de un portal web corporativo para una empresa de telecomunicaciones, enfocado en presentar sus servicios y soluciones a través de **WordPress**.
 - **Tecnologías usadas:** WordPress, Temas y Plugins Corporativos, Diseño Responsivo.
 - [🔗 Ver Proyecto en Vivo](https://bluetelecomunicaciones.com)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/bluetelecom-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -75,7 +69,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Diseño y desarrollo de una página web para una empresa de conectividad, destacando sus ofertas de internet y soluciones empresariales con **WordPress**.
 - **Tecnologías usadas:** WordPress, Personalización de Temas, Integración de Formularios.
 - [🔗 Ver Proyecto en Vivo](https://optilink.com.co)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/optilink-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -84,7 +77,6 @@ Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz c
 > Creación de un sitio web para una panadería con un catálogo de productos y sección de contacto, promoviendo sus productos y ubicación, desarrollado con **WordPress**.
 - **Tecnologías usadas:** WordPress, Plugins de Galería y Catálogo, Diseño Responsivo.
 - [🔗 Ver Proyecto en Vivo](https://panpillon.com)
-- [💻 Repositorio GitHub](https://github.com/tu-usuario/panpillon-repo) (Si existe, ¡reemplázalo!)
 
 ---
 
@@ -123,7 +115,6 @@ Estas son las tecnologías y herramientas con las que me siento cómodo trabajan
 Conéctate conmigo y explora más.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-gonzalez/)
-[![Tu Sitio Personal/Blog](https://img.shields.io/badge/Sitio_Web-1A1B1F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.tu-sitio-personal.com/)
 
 ---
 
