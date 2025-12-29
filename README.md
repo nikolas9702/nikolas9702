@@ -1,134 +1,180 @@
-# ¡Hola! Soy Niko Dev👋
+# 👋 ¡Hola! Soy Dilan González
 
-Apasionado desarrollador Full Stack con un enfoque en la creación de soluciones web robustas y experiencias de usuario intuitivas. ¡Bienvenido a mi portafolio digital!
+> Ingeniero de Sistemas | Director de Desarrollo | Full Stack Developer
+
+Apasionado desarrollador Full Stack con más de 7 años de experiencia liderando equipos y construyendo soluciones tecnológicas escalables. Especializado en arquitectura de software, desarrollo web completo y automatización de procesos.
 
 ---
 
-## ✨ Sobre Mí
+## 💼 Sobre Mí
 
-Soy un desarrollador que disfruta construyendo aplicaciones web tanto en el frontend como en el backend. Me especializo en convertir ideas complejas en productos funcionales y escalables. Siempre estoy aprendiendo nuevas tecnologías y buscando desafíos que me permitan crecer y aportar valor.
+Soy un ingeniero que disfruta transformando ideas complejas en productos funcionales y escalables. Me especializo en:
+
+- 🏗️ **Arquitectura de Software** - Diseño de sistemas robustos y escalables
+- 🔧 **Desarrollo Full Stack** - De la base de datos hasta la interfaz de usuario
+- 🤖 **Automatización** - Optimización de procesos con IA y herramientas modernas
+- 👥 **Liderazgo Técnico** - Gestión y mentoría de equipos de desarrollo
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-Aquí puedes ver algunos de mis trabajos más recientes y representativos. Haz clic en las imágenes o enlaces para visitarlos.
+### 🔷 [Sistema de Gestión Yoyix](https://yoyix.sionica.net)
+**Plataforma empresarial multi-tenant con Laravel 10**
+
+Sistema robusto de gestión y administración con arquitectura multi-tenancy, tareas programadas, integración con APIs y gestión avanzada de roles y permisos.
+
+**Stack:** Laravel 10 • MySQL • PHP • REST APIs • Cron Jobs • Multi-tenancy
 
 ---
 
-### Sistema de Gestión Yoyix (Sionica)
-[![Vista Previa de Yoyix](https://www.ejemplo.com/tu_imagen_yoyix.png)](https://yoyix.sionica.net)
-> Plataforma robusta de gestión y administración desarrollada con **Laravel 10**, implementando **multi-tenancy**, **tareas programadas (crons)**, integración con **APIs** y un sistema avanzado de **roles y permisos**. Ideal para negocios que requieren una solución a medida.
-- **Tecnologías usadas:** Laravel 10, MySQL, PHP, APIs RESTful, Cron Jobs, Multi-tenancy, Gestión de Roles y Permisos.
-- [🔗 Ver Proyecto en Vivo](https://yoyix.sionica.net)
+### 🔷 [CRM de Gestión Siónica](https://crm.sionica.net)
+**Sistema CRM moderno con Next.js**
+
+CRM desarrollado con Next.js para una experiencia rápida y eficiente, utilizando React para la interfaz, Redux para gestión de estado y SSR para optimización de rendimiento.
+
+**Stack:** Next.js • React • Redux • SSR • JavaScript
 
 ---
 
-### CRM de Gestión (Sionica)
-[![Vista Previa del CRM](https://www.ejemplo.com/tu_imagen_crm.png)](https://crm.sionica.net)
-> Sistema CRM desarrollado con **Next.js** para una experiencia de usuario rápida y eficiente, utilizando **React** para la interfaz, **Redux** para la gestión de estado global y **Server-Side Rendering (SSR)** para optimización de rendimiento y SEO.
-- **Tecnologías usadas:** Next.js, React, Redux, Server-Side Rendering (SSR), JavaScript, APIs.
-- [🔗 Ver Proyecto en Vivo](https://crm.sionica.net)
+### 🔷 [Devs67 - Desarrollo de Marca](https://devs67.sg-host.com/marca/)
+**Sitio web enfocado en branding y servicios**
+
+Desarrollo de un sitio web moderno y responsivo con WordPress, enfocado en branding y servicios con desarrollo ágil.
+
+**Stack:** WordPress • HTML5 • CSS3 • Custom Plugins
 
 ---
 
-### Desarrollo de Marca y Web (devs67)
-[![Vista Previa de Devs67 Marca](https://www.ejemplo.com/tu_imagen_devs67.png)](https://devs67.sg-host.com/marca/)
-> Creación de un sitio web enfocado en branding y servicios con un diseño moderno y responsivo, utilizando un enfoque de desarrollo ágil con **WordPress**.
-- **Tecnologías usadas:** WordPress, Temas y Plugins Personalizados, HTML, CSS.
-- [🔗 Ver Proyecto en Vivo](https://devs67.sg-host.com/marca/)
+### 🔷 [Viajes Plus Covenas](https://viajespluscovenas.com)
+**Plataforma de reservas turísticas**
+
+Plataforma de reservas y promoción de destinos turísticos optimizada para la experiencia del usuario y gestión de paquetes vacacionales.
+
+**Stack:** WordPress • Booking Plugins • Responsive Design
 
 ---
 
-### Plataforma de Viajes Online (Viajes Plus Covenas)
-[![Vista Previa de Viajes Plus Covenas](https://www.ejemplo.com/tu_imagen_viajesplus.png)](https://viajespluscovenas.com)
-> Desarrollo de una plataforma de reservas y promoción de destinos turísticos con **WordPress**, optimizada para la experiencia del usuario y la gestión de paquetes vacacionales.
-- **Tecnologías usadas:** WordPress, Plugins de Booking y Reservas, HTML, CSS.
-- [🔗 Ver Proyecto en Vivo](https://viajespluscovenas.com)
+### 🔷 [Caso de Éxito: Parrillísimo](https://sionica.net/el-caso-de-exito-parrillisimo-un-lugar-con-historia-y-sabor/)
+**Documentación de caso de éxito gastronómico**
+
+Colaboración en el desarrollo y documentación de un caso de éxito para un negocio gastronómico, implementando soluciones web completas.
+
+**Stack:** WordPress • Content Optimization • Web Design
 
 ---
 
-### Caso de Éxito: Parrillísimo (Sionica)
-[![Vista Previa de Caso Parrillísimo](https://www.ejemplo.com/tu_imagen_parrillisimo.png)](https://sionica.net/el-caso-de-exito-parrillisimo-un-lugar-con-historia-y-sabor/)
-> Colaboración en el desarrollo y documentación de un caso de éxito para un negocio gastronómico, destacando la implementación de soluciones web con **WordPress**.
-- **Tecnologías usadas:** WordPress, Diseño Web, Optimización de Contenido.
-- [🔗 Ver Caso de Éxito](https://sionica.net/el-caso-de-exito-parrillisimo-un-lugar-con-historia-y-sabor/)
+### 🔷 [Blue Telecomunicaciones](https://bluetelecomunicaciones.com)
+**Portal web corporativo**
+
+Creación de un portal corporativo para empresa de telecomunicaciones, presentando servicios y soluciones empresariales.
+
+**Stack:** WordPress • Corporate Themes • Responsive Design
 
 ---
 
-### Sitio Web Corporativo (Blue Telecomunicaciones)
-[![Vista Previa de Blue Telecomunicaciones](https://www.ejemplo.com/tu_imagen_bluetelecom.png)](https://bluetelecomunicaciones.com)
-> Creación de un portal web corporativo para una empresa de telecomunicaciones, enfocado en presentar sus servicios y soluciones a través de **WordPress**.
-- **Tecnologías usadas:** WordPress, Temas y Plugins Corporativos, Diseño Responsivo.
-- [🔗 Ver Proyecto en Vivo](https://bluetelecomunicaciones.com)
+### 🔷 [Optilink](https://optilink.com.co)
+**Plataforma de conectividad**
+
+Diseño y desarrollo de página web para empresa de conectividad, destacando ofertas de internet y soluciones empresariales.
+
+**Stack:** WordPress • Custom Themes • Form Integration
 
 ---
 
-### Plataforma de Conectividad (Optilink)
-[![Vista Previa de Optilink](https://www.ejemplo.com/tu_imagen_optilink.png)](https://optilink.com.co)
-> Diseño y desarrollo de una página web para una empresa de conectividad, destacando sus ofertas de internet y soluciones empresariales con **WordPress**.
-- **Tecnologías usadas:** WordPress, Personalización de Temas, Integración de Formularios.
-- [🔗 Ver Proyecto en Vivo](https://optilink.com.co)
+### 🔷 [Panadería Panpillon](https://panpillon.com)
+**Sitio web con catálogo de productos**
+
+Sitio web para panadería con catálogo de productos y sección de contacto, promoviendo productos y ubicación.
+
+**Stack:** WordPress • Gallery Plugins • Responsive Design
 
 ---
 
-### Panadería Panpillon
-[![Vista Previa de Panpillon](https://www.ejemplo.com/tu_imagen_panpillon.png)](https://panpillon.com)
-> Creación de un sitio web para una panadería con un catálogo de productos y sección de contacto, promoviendo sus productos y ubicación, desarrollado con **WordPress**.
-- **Tecnologías usadas:** WordPress, Plugins de Galería y Catálogo, Diseño Responsivo.
-- [🔗 Ver Proyecto en Vivo](https://panpillon.com)
+## 🛠️ Stack Tecnológico
 
----
-
-## 🛠️ Mis Habilidades
-
-Estas son las tecnologías y herramientas con las que me siento cómodo trabajando:
-
-**Lenguajes de Programación:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks y Librerías:**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**Sistemas de Gestión de Contenido (CMS):**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-923838?style=for-the-badge&logo=elementor&logoColor=white)
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Bases de Datos:**
+### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Herramientas y Otros:**
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### CMS & Automatización
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ---
 
-## 🌐 Enlaces Importantes
+## 📊 Estadísticas de GitHub
 
-Conéctate conmigo y explora más.
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikolas9702&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas9702&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikolas9702&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Conéctate Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-gonzalez/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikolas9702)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilan.gonzalez.garcia@gmail.com)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 💡 Filosofía de Trabajo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolas9702&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas9702&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
-</p>
+```javascript
+const miEnfoque = {
+  codigo: ["Limpio", "Escalable", "Mantenible"],
+  metodologias: ["Scrum", "Kanban", "Agile"],
+  mentalidad: ["Aprendizaje continuo", "Trabajo en equipo", "Innovación"],
+  objetivo: "Construir soluciones que generen impacto real"
+};
+```
 
 ---
 
-## ✉️ Contacto
+<div align="center">
+  
+### 📫 ¿Tienes un proyecto en mente?
 
-¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar!
+**¡Hablemos!** Estoy siempre abierto a nuevas oportunidades y colaboraciones.
 
-Puedes enviarme un correo a [dilan.gonzalez.garcia@gmail.com](mailto:dilan.gonzalez.garcia@gmail.com).
+[📧 Envíame un correo](mailto:dilan.gonzalez.garcia@gmail.com)
+
+---
+
+⭐️ **Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios**
+
+</div>
